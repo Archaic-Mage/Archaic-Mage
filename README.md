@@ -9,7 +9,7 @@ I am currently a 3rd year undergraduate in Indian Institute of Technology, Madra
 * 🌍  I'm based in Chennai, India
 * 🖥️  See my portfolio at [Resume](http://drive.google.com/file/d/1h54kgwNehbj1jP33af3A7Gb1EWSYAdXN/view?usp=sharing)
 * ✉️  You can contact me at [sohasoham811@gmail.com](mailto:sohasoham811@gmail.com)
-* 🧠  I'm learning ElectronJS
+* 🧠  I'm learning Program Analysis and Cyber Secure Systems
 
 ### Skills
 
