@@ -4,7 +4,7 @@ Hi 👋 My name is Soham Tripathy
 B.Tech. Computer Science
 ------------------------
 
-Currently pursuing my degree in Computer Science in Indian Institute of Technology. I'm driven by the exciting challenges and endless possibilities offered by the world of technology. I am an enthusiastic learner and very keen to learn new technology to help and create innovative solutions.
+Currently pursuing my degree in Computer Science in Indian Institute of Technology, Madras. I'm driven by the exciting challenges and endless possibilities offered by the world of technology. I am an enthusiastic learner and very keen to learn new technology to help and create innovative solutions.
 
 * 🧠  I'm interested in computer networks, security, trading systems (low latency system design) and program analysis.
 * 🌟  I enjoy brainstorming ideas and working alongside like-minded individuals to create impactful and high-performance systems.
