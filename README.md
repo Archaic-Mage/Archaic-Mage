@@ -9,7 +9,7 @@ Currently pursuing my degree in Computer Science in Indian Institute of Technolo
 * 🧠  I'm interested in computer networks, security, trading systems (low latency system design) and program analysis.
 * 🌟  I enjoy brainstorming ideas and working alongside like-minded individuals to create impactful and high-performance systems.
 * 🖥️  See my portfolio at [Resume](http://drive.google.com/file/d/1h54kgwNehbj1jP33af3A7Gb1EWSYAdXN/view?usp=sharing)
-* ✉️  You can contact me at [sohasoham811@gmail.com](mailto:sohasoham811@gmail.com)
+* ✉️  You can contact me at [sohamtripathy811@gmail.com](mailto:sohamtripathy811@gmail.com)
 
 ### Socials
 
